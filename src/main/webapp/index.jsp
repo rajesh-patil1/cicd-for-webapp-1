@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>project-2 Completed!!!.. </h2>
+<h2>first project completed!!.. </h2>
 </body>
 </html>
